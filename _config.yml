@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : " Prasanth_kumar Homepage "
+title                    : " Prasanthkumar Homepage "
 title_separator          : "-"
-name                     : &name " Prasanth kumar "
-description              : &description "personal description"
+name                     : &name " Prasanthkumar "
+description              : &description "A DevOps fresher is a newly-graduated or entry-level professional who is enthusiastic about the principles and practices of DevOps. "
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
